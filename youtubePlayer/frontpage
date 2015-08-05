@@ -7,7 +7,7 @@
       <form action="https://accounts.google.com/o/oauth2/auth" method="POST">
           <input type="hidden" name="response_type" value="token"></input>
           <input type="hidden" name="client_id" value="33407585840-r0blcv79joo3pkvo5he62mom9lfdco96.apps.googleusercontent.com"></input>
-          <input type="hidden" name="redirect_uri" value="https://shortenda.github.io/youtubePlayer/authedytplayer"></input>
+          <input type="hidden" name="redirect_uri" value="https://shortenda.github.io/youtubePlayer/authedPage"></input>
           <input type="hidden" name="scope" value="https://www.googleapis.com/auth/youtube.readonly"></input>
           <input type="hidden" name="state" value="awesome"></input>
           <input type="hidden" name="approval_prompt" value="force"></input>
